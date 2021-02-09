@@ -1,0 +1,3 @@
+Vaig a provar de demanar 
+l'arxiu des del terminal.
+I que s'adjunti per poder treballar-lo a local.
